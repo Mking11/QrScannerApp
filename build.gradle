@@ -4,7 +4,6 @@ buildscript {
         apply from : 'app/deps.gradle'
 
         classpath googlePlugin
-        classpath hiltPlugin
         classpath navigationPlugin
     }
 }
