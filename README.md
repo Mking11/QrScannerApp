@@ -1,4 +1,4 @@
 # QrScannerApp
 Scanner Test
 
-Sample Qr scanner app with camera app and google vision 
+Sample Qr scanner app with camerax and google vision 
